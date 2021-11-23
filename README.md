@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I think I am funny XD**
 
+![code](https://user-images.githubusercontent.com/94913570/143051763-1245a242-30b9-4f0b-9c23-78513c8c92ac.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jaiswaldipesh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiswaldipesh5" height="30" width="40" /></a>
