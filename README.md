@@ -10,8 +10,9 @@
 - 📄 Know about my experiences [Link](https://www.linkedin.com/in/dipesh-kumar-jaiswal-482b861b8/)
 
 - ⚡ Fun fact **I think I am funny XD**
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/94913570/143053292-3e5a1467-f223-4a8b-a109-a7b564bb6751.gif)
-
+- 
+<h3 align="right">![ezgif com-gif-maker](https://user-images.githubusercontent.com/94913570/143053292-3e5a1467-f223-4a8b-a109-a7b564bb6751.gif):</h3>
+<p align="right">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jaiswaldipesh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiswaldipesh5" height="30" width="40" /></a>
