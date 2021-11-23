@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am funny XD**
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/94913570/143053292-3e5a1467-f223-4a8b-a109-a7b564bb6751.gif)
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
