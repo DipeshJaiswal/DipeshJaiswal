@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dipeshjaiswal5555@gmail.com**
 
-- 📄 Know about my experiences [Link](Link)
+- 📄 Know about my experiences [Link](linkedin.com/in/dipesh-kumar-jaiswal-482b861b8)
 
 - ⚡ Fun fact **I think I am funny XD**
 
