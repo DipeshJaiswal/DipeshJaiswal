@@ -5,15 +5,14 @@
 
 - 💬 **Welcome to my little space on GitHub. I am very passionate about finding hidden insight in the data, power of coding and how they can give you the confidence to solve whatever problems you face. On the technical side, I have extensively worked with statistical analysis tools, namely RStudio, Python and Excel. I aspire to work on the role of Data scientist, Data analyst or related field in Data science. Efficient in gathering, analyzing, and interpreting business data to identify patterns and trends that can enhance business opportunities. I have keen interest in learning new language and technology and exploring the same.**
 
-- 📫 How to reach me **dipeshjaiswal5555@gmail.com**
+- 📫 How to reach me [dipeshjaiswal5555@gmail.com](dipeshjaiswal5555@gmail.com)
 
 - 📄 Know about my experiences [Link](https://www.linkedin.com/in/dipesh-kumar-jaiswal-482b861b8/)
 
 - ⚡ Fun fact **I think I am funny XD**
-- 
-<h3 align="right"> 
+"\n"
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/94913570/143053292-3e5a1467-f223-4a8b-a109-a7b564bb6751.gif)
-<p align="right">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jaiswaldipesh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiswaldipesh5" height="30" width="40" /></a>
